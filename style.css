@@ -1,0 +1,27 @@
+body{
+  text-align: right;
+  background: ghostwhite;
+}
+h1 {
+    text-align: center;
+    background: #F9FFB9;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+.o{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 250px;
+}
+audio{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
